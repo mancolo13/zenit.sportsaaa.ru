@@ -111,7 +111,7 @@ class QuizzesTab extends StatelessWidget {
                     ),
                     const SizedBox(height: 12),
                     Text(
-                      'Матч-Центр Зенит Арена',
+                      'Матч-Центр Зенит.',
                       style: GoogleFonts.outfit(
                         fontSize: 22,
                         fontWeight: FontWeight.w900,
